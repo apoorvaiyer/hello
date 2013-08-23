@@ -1,4 +1,4 @@
-hello
-=====
+Apparently, I need a README.
+============================
 
-Hello in Go
+So here's my README.
